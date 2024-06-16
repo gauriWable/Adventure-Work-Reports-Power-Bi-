@@ -17,5 +17,5 @@ Built and formatted basic charts.
 Added interactivity with bookmarks and slicer panels.
 
 Acknowledgments
-Credit goes to the top instructors on Maven Analytics for their thorough guidance throughout this project.
+Credit goes to the top instructors  Maven Analytics for their thorough guidance throughout this project.
 
