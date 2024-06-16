@@ -15,6 +15,7 @@ Brought data to life with reports and dashboards.
 Reviewed data visualization best practices.
 Built and formatted basic charts.
 Added interactivity with bookmarks and slicer panels.
+
 Acknowledgments
 Credit goes to the top instructors on Maven Analytics for their thorough guidance throughout this project.
 
